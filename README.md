@@ -2,7 +2,7 @@
   React, Redux, Styled Components, Material UI, React-Reveal for animation
 
 # Deployment on 
-  Versel
+  Vercel
 
 ## Available Scripts
 
